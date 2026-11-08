@@ -1,0 +1,1 @@
+{"rewrites":[{"source":"/api/:path*","destination":"https://f0352.55fh.xyz/vipapi.php?path=:path*"}]}
